@@ -4,7 +4,7 @@ Xcrypto is a user-friendly platform for tracking cryptocurrency prices and trend
 ## Overview
 ![image](https://github.com/shivamnit123/Xcrypto/blob/main/xcrypto4.png)
 ![image](https://github.com/shivamnit123/Xcrypto/blob/main/xcypto3.png)
-![image](https://github.com/shivamnit123/HealthCare/blob/main/log.png)
+![image](https://github.com/shivamnit123/Xcrypto/blob/main/xcrypto2.png)
 
 ## Features
 
